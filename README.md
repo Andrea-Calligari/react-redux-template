@@ -1,2 +1,2 @@
-
-A repo template React + Redux !
+- npm i
+- npm i react-redux 
